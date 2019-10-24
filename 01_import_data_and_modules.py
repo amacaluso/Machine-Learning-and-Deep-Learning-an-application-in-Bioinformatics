@@ -5,8 +5,7 @@ Created on Sun Feb 26 17:08:26 2017
 @author: Antonio
 """
 
-exec(open("Utils.py").read(), globals())
-
+from Utils import *
 ###############################################
 ############ Importazione dati ################
 ###############################################
