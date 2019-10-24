@@ -5,11 +5,11 @@ Created on Thu Apr 13 19:03:24 2017
 @author: Antonio
 """
 
-exec(open("Utils.py").read(), globals())
-exec(open("01_Importazione_dati_e_moduli.py").read(), globals())
+from Utils import *
+exec(open("01_Importazione_dati_e_moduli.py").read())
 # exec(open('03_Descrittive.py').read(), globals())
-# exec(open("05_Test_d_ipotesi.py").read(), globals())
-exec(open("10_PCA.py").read(), globals())
+# exec(open("05_Test_d_ipotesi.py").read())
+exec(open("10_PCA.py").read())
 
 
 name_columns = ['Y', 'Numerosità', 'Cancer type', 'SE','SSE', 'MSE', 
