@@ -3,8 +3,9 @@
 This project is about the  analysis of bioinformatics data, and it has been realised for during my master's thesis writing.
 
 
-## Title: Machine Learning and Deep Learning: an application to bioinformatics
+## (Title) Machine Learning and Deep Learning: an application in bioinformatics
 
+### Abstract:
 In the big data era, to transform biomedical data in useful knowledge is one of the most important challenges in bioinformatics. 
 In order to understand the structure of a cell and its functioning, the valuable information needed concerns the amount of mRNA 
 produced by each gene of the cells DNA (also referred to as gene expression). Thanks to microarray technologies it is possible to 
@@ -43,3 +44,6 @@ Finally, the results of the Machine Learning and the Deep Learning approaches ar
 about some possible alternatives to optimize the computational eﬀort is dealt with, the entire analysis is repeated using the CINECA’s
 supercomputer MARCONI and exploiting the advantages Graphics Processing Unit (GPU) parallel computing instead of the classical 
 multithreading parallelism.
+
+### Maintainer
+Antonio Macaluso
