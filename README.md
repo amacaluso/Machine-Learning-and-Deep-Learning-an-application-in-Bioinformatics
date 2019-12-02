@@ -1,6 +1,9 @@
-# Machine_Learning_in_Bioinformatics(Master's thesis)
+# Machine_Learning_in_Bioinformatics (Master's thesis)
 
-## Machine Learning and Deep Learning: an application to bioinformatics
+This project is about the  analysis of bioinformatics data, and it has been realised for during my master's thesis writing.
+
+
+## Title: Machine Learning and Deep Learning: an application to bioinformatics
 
 In the big data era, to transform biomedical data in useful knowledge is one of the most important challenges in bioinformatics. 
 In order to understand the structure of a cell and its functioning, the valuable information needed concerns the amount of mRNA 
