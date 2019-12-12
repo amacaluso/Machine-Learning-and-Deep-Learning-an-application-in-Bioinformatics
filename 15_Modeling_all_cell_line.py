@@ -7,8 +7,8 @@ Created on Thu Apr 13 19:03:24 2017
 
 exec(open("Utils.py").read())
 exec(open("01_Importazione_dati_e_moduli.py").read())
-# exec(open('03_Descrittive.py').read())
-# exec(open("05_Test_d_ipotesi.py").read())
+# exec(open('03_Descriptive.py').read())
+# exec(open("05_hypothesis_test.py").read())
 exec(open("10_PCA.py").read(), globals())
 
 
