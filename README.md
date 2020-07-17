@@ -1,4 +1,4 @@
-# Machine_Learning_in_Bioinformatics (Master's thesis)
+# Machine Learning in Bioinformatics (Master's thesis)
 
 This project is about the  analysis of bioinformatics data, and it has been realised for during my master's thesis writing.
 
