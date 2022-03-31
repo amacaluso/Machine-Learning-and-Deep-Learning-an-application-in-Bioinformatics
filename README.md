@@ -3,7 +3,7 @@
 This project is about the  analysis of bioinformatics data, and it has been realised for during my master's thesis writing.
 
 
-## (Title) Machine Learning and Deep Learning: an application in bioinformatics
+## Machine Learning and Deep Learning: an application in bioinformatics
 
 ### Abstract:
 In the big data era, to transform biomedical data in useful knowledge is one of the most important challenges in bioinformatics. 
